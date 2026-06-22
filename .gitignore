@@ -1,0 +1,21 @@
+# Cadence/Xcelium
+xcelium.d/
+waves.shm/
+.simvision/
+
+# Logs
+*.log
+*.history
+*.key
+*.diag
+
+# Temporary files
+*.swp
+*.swo
+*.swn
+*.swm
+*.save
+
+# Generated files
+.symbolnamelist
+.symbolportinfomap
